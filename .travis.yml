@@ -14,7 +14,7 @@ deploy:
     bucket: "www.effectivealtruismmelbourne.org"
     skip_cleanup: true
     local_dir: public
-    s3_region: "ap-southeast-2"
+    s3_region: ap-southeast-2
     on:
       branch: master
 
