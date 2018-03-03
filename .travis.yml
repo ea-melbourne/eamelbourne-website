@@ -11,7 +11,7 @@ deploy:
   - provider: s3
     access_key_id: $S3_IAM_KEY
     secret_access_key: $S3_IAM_SECRET
-    bucket: "eamelbourne-website"
+    bucket: "www.effectivealtruismmelbourne.org"
     skip_cleanup: true
     local_dir: public
     on:
