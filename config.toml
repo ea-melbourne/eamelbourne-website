@@ -1,4 +1,4 @@
-baseURL = "http://eamelbourne-website.s3-website-ap-southeast-2.amazonaws.com"
+baseURL = "http://www.effectivealtruismmelbourne.org"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
