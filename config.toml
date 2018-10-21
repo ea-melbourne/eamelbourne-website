@@ -1,7 +1,7 @@
 # baseURL should be
 # "https://YOUR-GITHUB-USERNAME.github.io/lean-site-template/" during development,
 # and "your-ea-domain.org/" after your domain has been set up.
-baseURL = "http://www.effectivealtruismmelbourne.org"
+baseURL = "www.effectivealtruismmelbourne.org"
 theme = "local-ea-template"
 canonifyURLs = true
 
@@ -86,5 +86,5 @@ DefaultContentLanguage = "en"
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/groups/effectivealtruismmelbourne/"
-  #twitterUrl = ""
+  twitterUrl = "https://twitter.com/EA_Melbourne"
   meetupUrl = "https://www.meetup.com/en-AU/EAMelbourne/"
